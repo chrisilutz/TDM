@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Kompetenznetz KJP TDM e.V.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+<!-- add your meta tags here -->
+<meta name="description" content="TDM, KJP, Therapeuthical, Drug, Monitoring, Kinderpsychatrie, Jugendpsychatrie, Forschungsdatenbank, Internetbasiert, Entwicklungspsychopharmakologie, Arzneimittelserumspiegel, Blutspiegel, Serumkonzentration, Multizentrisches Forschungsprojekt, Serumspiegel, Plasmaspiegel" />
+<meta name="keywords" content="TDM, KJP, Therapeuthical, Drug, Monitoring, Kinderpsychatrie, Jugendpsychatrie, Forschungsdatenbank, Internetbasiert, Entwicklungspsychopharmakologie, Arzneimittelserumspiegel, Blutspiegel, Serumkonzentration, Multizentrisches Forschungsprojekt, Serumspiegel, Plasmaspiegel" />
+
+<link href="css/my_layout.css" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+<link href="css/patches/patch_my_layout.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+  <div id="page_margins">
+    <div id="border-top">
+      <div id="edge-tl"></div>
+      <div id="edge-tr"></div>
+    </div>
+    <div id="page">
+      <div id="header">
+        <div id="topnav">
+          <!-- start: skip link navigation -->
+          <a class="skip" title="skip link" href="#navigation">Skip to the navigation</a><span class="hideme">.</span>
+          <a class="skip" title="skip link" href="#content">Skip to the content</a><span class="hideme">.</span>
+          <!-- end: skip link navigation --><a href="eng/contact.html"><img src="images/english.gif" /></a>&nbsp;<a href="#"><img src="images/german.gif" /></a><br /><a href="kontakt.html">Kontakt</a> | <a href="kontakt.html">Impressum</a>
+        </div>
+        <img src="images/logo.jpg" />
+      </div>
+      <div id="nav">
+        <!-- skiplink anchor: navigation -->
+        <a id="navigation" name="navigation"></a>
+        <div id="nav_main">
+          <!-- main navigation: #nav_main -->
+          <ul>
+            <li><a href="index.html">Aktuelles &amp; Ziele</a>
+            </li>
+            <li><a href="hintergrund.html">Hintergrund</a></li>
+            <li><a href="datenbank.html">Datenbank</a></li>
+            <li><a href="labor.html">Laborleistungen</a></li>
+            <li><a href="beteiligte.html">Beteiligte</a></li>
+            <li><a href="projekte.html">Schwerpunkt &amp; Projekte</a></li>
+            <li><a href="publikationen.html">F&ouml;rderung &amp; Publikationen</a></li>
+            <li id="current"><a href="kontakt.html">Kontakt</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="main">
+        <div id="col1">
+          <div id="col1_content" class="clearfix">
+            <!-- add your content here -->
+            <div class="note">
+            <h2>Ethik</h2>
+            <p style="text-align:justify;">Es handelt sich nicht um ein experimentelles Design; vielmehr werden Daten aus Untersuchungen, die Teil der kinder- und jugendpsychiatrischen Routinediagnostik sind und ohnehin erfolgen, im Weiteren in einer Datenbank dokumentiert, um eine standardisierte Erhebung, Speicherung und Auswertung gr&ouml;&szlig;erer Patientenpopulationen zu erm&ouml;glichen.<br /><br />
+            Durch das TDM kann die Dosisfindung individuell optimiert und das Risiko von Überdosierungen mit der Gefahr von unerw&uuml;nschten Wirkungen minimiert werden. Da sich somit auch f&uuml;r den einzelnen Patienten ein direkter Nutzen ergibt, erteilten die lokalen Ethikkommissionen dem Vorhaben ein positives Votum.<br /><br />
+            Voraussetzung ist ein informiertes Einverst&auml;ndnis der Patienten bzw. der Sorgeberechtigten bez&uuml;glich der pseudonymisierten Datenspeicherung und -verarbeitung.<br />
+            F&uuml;r pharmakogenetische Zusatzuntersuchungen sind eine zus&auml;tzliche Aufkl&auml;rung und Einverst&auml;ndniserkl&auml;rung notwendig.<br /><br />
+Jedes neu hinzukommende Zentrum erkl&auml;rt sich bereit, bei der lokal zust&auml;ndigen Ethikkommission ein Votum f&uuml;r das Projekt einzuholen.<br />
+<br />Hierbei unterst&uuml;tzen wir Sie gerne mit entsprechenden Unterlagen.
+</p>
+            </div>
+          </div>
+        </div>
+        <div id="col3">
+          <div id="col3_content" class="clearfix">
+            <!-- add your content here -->
+            <div id="teaser3">
+
+            </div>
+            <h2>Kontakt &amp; Impressum</h2>
+            <h3>Netzwerksekretariat:</h3>
+            <p><b>Kompetenznetz TDM KJP e.V.</b><br />
+Andrea B&auml;uerle<br />
+Klinik f&uuml;r Kinder- und Jugendpsychiatrie / Psychotherapie Universit&auml;t Ulm <br />
+Steinh&ouml;velstr. 5<br />
+89075 Ulm<br /><br /><br />
+
+Tel.:	(+49) 0731-500-61710<br />
+Email:	<a href="mailto:andrea.baeuerle@uniklinik-ulm.de" target="_blank">andrea.baeuerle@uniklinik-ulm.de</a>
+</p><br /><br />
+            <h3>Vereinsvorsitzende:</h3>
+            <img src="images/mehlerwex.jpg" style="float:left;" width="90px" />
+            <p><b>1. Vorsitzende:</b><br />
+            Prof. Dr. Claudia Mehler-Wex<br />
+			Klinik f&uuml;r Kinder- und Jugendpsychiatrie / Psyhotherapie<br />
+			Universit&auml;tsklinik Ulm<br />
+
+			Anschrift: s. Netzwerksekretariat</p>
+			<br /><br />
+
+<img src="images/karwautz.jpg" style="float:left;" width="90px" />
+<p>
+<b>2. Vorsitzender:</b><br />
+Prof. Dr. Andreas Karwautz<br />
+Universit&auml;tsklinik f&uuml;r Kinder- und Jugendpsychiatrie Wien<br />
+Anschrift:<br />
+W&auml;hringer G&uuml;rtel 18-20<br />
+A-1090 Wien
+</p>
+<h3>weitere Vorstandsmitglieder:</h3>
+<p>
+<b>Schatzmeister:</b><br />
+Prof. Dr. Manfred Gerlach<br />
+			Klinik u. Poliklinik f&uuml;r Kinder- u. Jugendpsychiatrie, Psychotherapie u. Psychosomatik<br />
+			Universit&auml;tsklinik W&uuml;rzburg<br />
+			Anschrift:<br />
+			F&uuml;chsleinstr. 15<br />
+			97080 W&uuml;rzburg
+</p>
+<p>
+<b>Schriftf&uuml;hrerin:</b><br />
+Dr. med. Karin Egberts<br />
+			Klinik u. Poliklinik f&uuml;r Kinder- u. Jugendpsychiatrie, Psychotherapie u. Psychosomatik<br />
+			Universit&auml;tsklinik W&uuml;rzburg<br />
+			Anschrift:<br />
+			F&uuml;chsleinstr. 15<br />
+			97080 W&uuml;rzburg<br /><br />
+			
+Dr. med. Karin Egberts (geb. Klampfl) 
+</p>
+
+           </div>
+         </div>
+          <!-- IE Column Clearing -->
+          <div id="ie_clearing"> &#160; </div>
+        </div>
+
+      <!-- begin: #footer -->
+      <div id="footer">Erstellt von <a href="http://www.3rat.de" target="_blank">3rat</a>
+      </div>
+   </div>
+    <!-- <div id="border-bottom">
+      <div id="edge-bl"></div>
+      <div id="edge-br"></div>
+    </div> -->
+  </div>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ROOT>
+  <KLINIK>
+    <NAME>Klinik f&uuml;r Kinder- und Jugendpsychiatrie und -psychotherapie Rheinisch Westf&auml;lische Technische Hochschule Aachen</NAME>
+    <DIREKTOR>Prof. Dr. Beate Herpertz-Dahlmann</DIREKTOR>
+    <STRASSE>Neuenhofer Weg 21</STRASSE>
+    <ORT>52074 Aachen</ORT>
+    <LINK>http://www.ukaachen.de/content/folder/1161467</LINK>
+  </KLINIK>
+  <KLINIK>
+    <NAME>HEMERA Klinik Privatklinik f&uuml;r Seelische Gesundheit - Jugendliche und junge Erwachsene - Bad Kissingen</NAME>
+    <DIREKTOR>Prof. Claudia Mehler-Wex</DIREKTOR>
+    <STRASSE>Sch&ouml;nbornstra&szlig;e 16</STRASSE>
+    <ORT>97688 Bad Kissingen</ORT>
+    <LINK>http://www.hemera.de/</LINK>
+  </KLINIK>
+  <KLINIK>
+    <NAME>DRK Fachklinik f&uuml;r Kinder- und Jugendpsychiatrie, Psychotherapie/Psychosomatik Bad Neuenahr</NAME>
+    <DIREKTOR>PD Dr. Kristian Holtkamp</DIREKTOR>
+    <STRASSE>Lindenstr. 3-4</STRASSE>
+    <ORT>53474 Bad Neuenahr</ORT>
+    <LINK>http://www.drk-fk-badneuenahr.de.drktg.de/na/index.php</LINK>
+  </KLINIK>
+  <KLINIK>
+    <NAME>Vivantes Klinik f&uuml;r Kinder und Jugendpsychiatrie Psychotherapie und Psychosomatik</NAME>
+    <DIREKTOR>PD Dr. med. Michael K&ouml;lch</DIREKTOR>
+    <STRASSE>Landsberger Allee 49</STRASSE>
+    <ORT>10249 Berlin</ORT>
+    <LINK>http://www.vivantes.de/kfh/kjppp</LINK>
+  </KLINIK>
+  <KLINIK>
+    <NAME>Klinik f&uuml;r Kinder- und Jugendpsychiatrie und Psychotherapie Rheinische Kliniken Essen</NAME>
+    <DIREKTOR>Prof. Dr. Johannes Hebebrand</DIREKTOR>
+    <STRASSE>Virchowstr. 174</STRASSE>
+    <ORT>45147 Essen</ORT>
+    <LINK>http://www.uni-essen.de/kjp/</LINK>
+  </KLINIK>
+  <KLINIK>
+    <NAME>Klinik f&uuml;r Psychiatrie, Psychosomatik und Psychotherapie des Kindes- und Jugendalters der Johann Wolfgang Goethe-Universit&auml;t</NAME>
+    <DIREKTOR>Prof. Dr. Christine Freitag</DIREKTOR>
+    <STRASSE>Deutschordenstra&szlig;e 50</STRASSE>
+    <ORT>60528 Frankfurt am Main</ORT>
+    <LINK>http://www.kgu.de/index.php?id=1371</LINK>
+  </KLINIK>
+  <KLINIK>
+    <NAME>Abteilung f&uuml;r Psychiatrie und Psychotherapie des Kindes- und Jugendalters Universit&auml;tsklinikum Freiburg</NAME>
+    <DIREKTOR>Prof. Dr. Eberhard Schulz</DIREKTOR>
+    <STRASSE>Hauptstr. 8</STRASSE>
+    <ORT>79104 Freiburg</ORT>
+    <LINK>http://www.uniklinik-freiburg.de/kijupsych/live/index.html</LINK>
+  </KLINIK>
+</ROOT>
+

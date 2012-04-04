@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId">
+    <wb-module deploy-name="tdm">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <property name="context-root" value="tdm"/>
+    </wb-module>
+</project-modules>

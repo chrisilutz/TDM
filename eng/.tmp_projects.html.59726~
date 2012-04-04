@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Kompetenznetz KJP TDM e.V.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+<!-- add your meta tags here -->
+<meta name="description" content="TDM, KJP, Therapeuthical, Drug, Monitoring, Kinderpsychatrie, Jugendpsychatrie, Forschungsdatenbank, Internetbasiert, Entwicklungspsychopharmakologie, Arzneimittelserumspiegel, Blutspiegel, Serumkonzentration, Multizentrisches Forschungsprojekt, Serumspiegel, Plasmaspiegel" />
+<meta name="keywords" content="TDM, KJP, Therapeuthical, Drug, Monitoring, Kinderpsychatrie, Jugendpsychatrie, Forschungsdatenbank, Internetbasiert, Entwicklungspsychopharmakologie, Arzneimittelserumspiegel, Blutspiegel, Serumkonzentration, Multizentrisches Forschungsprojekt, Serumspiegel, Plasmaspiegel" />
+
+<link href="css/my_layout.css" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+<link href="css/patches/patch_my_layout.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+  <div id="page_margins">
+    <div id="border-top">
+      <div id="edge-tl"></div>
+      <div id="edge-tr"></div>
+    </div>
+    <div id="page">
+      <div id="header">
+        <div id="topnav">
+          <!-- start: skip link navigation -->
+          <a class="skip" title="skip link" href="#navigation">Skip to the navigation</a><span class="hideme">.</span>
+          <a class="skip" title="skip link" href="#content">Skip to the content</a><span class="hideme">.</span>
+          <!-- end: skip link navigation --><a href="#"><img src="../images/english.gif" /></a>&nbsp;<a href="http://www.tdm-kjp.de/projekte.html"><img src="../images/german.gif" /></a><br /><a href="contact.html">Contact</a> | <a href="contact.html">Imprint</a>
+        </div>
+        <img src="images/logo.jpg" />
+      </div>
+      <div id="nav">
+        <!-- skiplink anchor: navigation -->
+        <a id="navigation" name="navigation"></a>
+        <div id="nav_main">
+          <!-- main navigation: #nav_main -->
+          <ul>
+            <li><a href="index.html">News &amp; Aims</a></li>
+            <li><a href="introduction.html">Introduction</a></li>
+            <li><a href="database.html">Database</a></li>
+            <li><a href="labor.html">TDM-laboratory</a></li>
+            <li><a href="participants.html">Participants</a></li>
+            <li id="current"><a href="#">Projects</a></li>
+            <li><a href="publications.html">Publications &amp; Support</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="main">
+        <div id="col1">
+          <div id="col1_content" class="clearfix">
+            <!-- add your content here -->
+            <h2>Contact</h2>
+            <h3>Secretary office:</h3>
+            <p><b>Competence network &quot;TDM KJP e.V.&quot;</b><br />
+Andrea B&auml;uerle<br />
+Clinic for child and youth psychiatry/ psychotherapy University of Ulm<<br />
+Steinh&ouml;velstr. 5<br />
+89075 Ulm<br /><br /><br />
+
+Tel.:	(+49) 0731-500-61710<br />
+Email:	<a href="mailto:andrea.baeuerle@uniklinik-ulm.de" target="_blank">andrea.baeuerle@uniklinik-ulm.de</a>
+</p></div>
+        </div>
+        <div id="col3">
+          <div id="col3_content" class="clearfix">
+            <!-- add your content here -->
+            <div id="teaser2">
+
+            </div>
+            <h1>Projects</h1>
+            <div class="subcolumns">
+            <div class="c66l">
+            <h3>Download</h3>
+            <h3><a href="Antony_Projektskizze_PAERS_DOTES_Kurzerfassung.pdf" target="_blank">Antony Projektskizze PAERS DOTES Kurzerfassung</a></h3>
+            <h3><a href="TDM_Atypika.pdf" target="_blank">Therapeutisches Drug Monitoring zu atypischen Neuroleptika bei der Behandlung
+schizophrener St&ouml;rungen im Kindes- und Jugendalter</a></h3>
+            <h3><a href="TDM_Atypical_neuroleptics_in_anorexia_nervosa.pdf" target="_blank">Atypical neuroleptics in anorexia nervosa: a naturalistic observational study including
+measurement of serum concentrations</a></h3>
+            <h3><a href="TDM_FLX.pdf" target="_blank">Fluoxetin im TDM</a></h3>
+
+            </div>
+            </div>
+
+            <p><a href="http://www.adobe.com/de/products/acrobat/readstep2.html" target="_blank"><img src="images/getacro.gif" height="31 px" width="88 px" /></a></p>
+           </div>
+         </div>
+          <!-- IE Column Clearing -->
+          <div id="ie_clearing"> &#160; </div>
+        </div>
+
+      <!-- begin: #footer -->
+      <div id="footer">Erstellt von <a href="http://www.3rat.de" target="_blank">3rat</a>
+      </div>
+   </div>
+    <div id="border-bottom">
+      <div id="edge-bl"></div>
+      <div id="edge-br"></div>
+    </div>
+  </div>
+</body>
+</html>

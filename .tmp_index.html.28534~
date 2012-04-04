@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Kompetenznetz KJP TDM e.V.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+<!-- add your meta tags here -->
+<meta name="description" content="TDM, KJP, Therapeuthical, Drug, Monitoring, Kinderpsychatrie, Jugendpsychatrie, Forschungsdatenbank, Internetbasiert, Entwicklungspsychopharmakologie, Arzneimittelserumspiegel, Blutspiegel, Serumkonzentration, Multizentrisches Forschungsprojekt, Serumspiegel, Plasmaspiegel" />
+<meta name="keywords" content="TDM, KJP, Therapeuthical, Drug, Monitoring, Kinderpsychatrie, Jugendpsychatrie, Forschungsdatenbank, Internetbasiert, Entwicklungspsychopharmakologie, Arzneimittelserumspiegel, Blutspiegel, Serumkonzentration, Multizentrisches Forschungsprojekt, Serumspiegel, Plasmaspiegel" />
+
+<link href="css/my_layout.css" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+<link href="css/patches/patch_my_layout.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+  <div id="page_margins">
+    <div id="border-top">
+      <div id="edge-tl"></div>
+      <div id="edge-tr"></div>
+    </div>
+    <div id="page">
+      <div id="header">
+        <div id="topnav">
+          <!-- start: skip link navigation -->
+          <a class="skip" title="skip link" href="#navigation">Skip to the navigation</a><span class="hideme">.</span>
+          <a class="skip" title="skip link" href="#content">Skip to the content</a><span class="hideme">.</span>
+          <!-- end: skip link navigation --><a href="eng/index.html"><img src="images/english.gif" alt="English" /></a>&nbsp;<a href="#"><img src="images/german.gif" alt="Deutsch" /></a><br /><a href="kontakt.html">Kontakt</a> | <a href="kontakt.html">Impressum</a>
+        </div>
+        <img src="images/logo.jpg" alt="Logo TDM-KJP" />
+      </div>
+      <div id="nav">
+        <!-- skiplink anchor: navigation -->
+        <a id="navigation" name="navigation"></a>
+        <div id="nav_main">
+          <!-- main navigation: #nav_main -->
+          <ul>
+            <li id="current"><a href="#">Aktuelles &amp; Ziele</a>
+            </li>
+            <li><a href="hintergrund.html">Hintergrund</a></li>
+            <li><a href="datenbank.html">Datenbank</a></li>
+            <li><a href="labor.html">Laborleistungen</a></li>
+            <li><a href="beteiligte.html">Beteiligte</a></li>
+            <li><a href="projekte.html">Schwerpunkt &amp; Projekte</a></li>
+            <li><a href="publikationen.html">F&ouml;rderung &amp; Publikationen</a></li>
+            <li><a href="kontakt.html">Kontakt</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="main">
+        <div id="col1">
+          <div id="col1_content" class="clearfix">
+            <!-- add your content here -->
+            <div class="note">
+            <h2>Aktuelles</h2>
+
+ <p><b>Zahl der Mitgliedzentren auf 16 gestiegen</b><br />
+</p>
+            <hr />
+<p><b>geplante Kongressbeitr&auml;ge:</b></p>
+<ul>
+<li>AGNP, Bozen, 2-4 September 2010</li>
+</ul>
+<br /><br /><br />
+            </div><br />
+
+ <div class="note">
+     <h2>Information</h2>
+ <h4>Das Kompetenznetz TDM KJP bietet seinen aktiven Mitgliedern:</h4>
+ <ul>
+ <li style="margin-left: 0">Kostenfreie Mitgliedschaft</li>
+ <li style="margin-left: 0">Serumspiegelbestimmungen für Psychopharmaka</li>
+ <li style="margin-left: 0">Informationsaustausch und Beratung bei auff&auml;lligen Spiegelbefunden</li>
+ <li style="margin-left: 0">Pharmakogenetische Zusatzdiagnostik nach klinischem Bedarf</li>
+ <li style="margin-left: 0">Qualit&auml;tssicherung:<br />
+	Zugang zu einer Internetbasierten Datenbank zur standardisierten Dokumentation kinder- und jugendpsychiatrischer Psychopharmakotherapie</li>
+ <li style="margin-left: 0">Datenexport für Forschungsideen</li>
+ <li style="margin-left: 0">Regelm&auml;&szlig;ige Tagungen</li>
+ </ul>
+ <p><b>Die Mitgliedschaft setzt die aktive Dokumentation in der Datenbank voraus.</b></p>
+ 
+ </div>
+<div style="margin-top:1em;"><a href="http://www.bmbf.de" target="_blank"><img src="images/BMBF_Logo_DEU.jpg" title="Logo Bundesministerium f&uuml;r Bildung und Forschung" alt="Logo Bundesministerium f&uuml;r Bildung und Forschung" /></a></div>
+          </div>
+        </div>
+        <div id="col3">
+          <div id="col3_content" class="clearfix">
+            <!-- add your content here -->
+            <div id="teaser">
+
+            </div>
+
+            <h2>Ziele</h2>
+            <!-- 1.Reihe -->
+
+            <div class="subcolumns">
+            <div class="c38l">
+            <div class="subcl">
+            <ul>
+            <li><b>Standardisierte, pseudonymisierte Erfassung der Psychopharmakabehandlung (sog. &quot;Therapeutisches Drug Monitoring&quot;) in der Kinder- und Jugendpsychiatrie in einer Internet-basierten Datenbank</b><br />
+            	</li>
+            	</ul>
+            	<div class="important">
+            	<h2>Dokumentation von</h2>
+            	<ul>
+            	<li>Entwicklungs- bzw. metabolismusrelevanten Angaben zum Patienten</li>
+            	<li>Angaben zur Medikation </li>
+            	<li>Serumspiegel</li>
+            	<li>Wirkungen und Nebenwirkungen</li>
+            	</ul>
+            	</div>
+            	<br />
+
+            </div>
+            </div>
+            <div class="c62r">
+
+            <div class="c50l">
+            <div class="subcl">
+            <ul>
+
+            <li><b>Verbesserung der Patientensicherheit</b><br />
+            und Optimierung der Pharmakotherapie in der Kinder- und Jugendpsychiatrie durch multizentrische Etablierung von standardisiertem Therapeutischen Drug Monitoring.</li>
+             </ul>
+            <br /><br /><br /><br /><br /><br />
+            </div>
+            </div>
+            <div class="c50r">
+            <div class="subcr">
+            <ul>
+            <li><b>Direkter Nutzen f&uuml;r den individuellen Patienten,</b><br />da seine Serumspiegel unter Ber&uuml;cksichtigung des Wirkungs-/Nebenwirkungsprofils zur Dosisoptimierung und Vermeidung von unerw&uuml;nschten Wirkungen herangezogen werden k&ouml;nnen.</li>
+            </ul><img src="images/steto.jpg" width="200px" style="float:right; border: 2px solid #111; margin: 2px 5px;" alt="" />
+            </div>
+            </div>
+
+
+
+            </div>
+            </div>
+
+            <!-- 2.Reihe -->
+
+            <div class="subcolumns">
+            <div class="c38l">
+            <div class="subcl">
+            <ul>
+            <li>Standardisierte Erfassung ohnehin in der Klinik zu erhebender Parameter, so dass es sich nicht um eine Studie im eigentlichen Sinne, sondern um eine Anwendungsbeobachtung handelt, die gleichzeitig der <b>Qualit&auml;tssicherung der Pharmakotherapie</b> dient.</li>
+            </ul>
+            </div>
+            </div>
+            <div class="c62l">
+            <div class="subcr">
+            <ul>
+            <li><b>Systematische Erweiterung der empirischen Datenlage</b><br />- der Datenpool kann f&uuml;r eine Vielzahl wissenschaftlicher Fragestellungen (Wechselwirkungsmuster, Detektion alters- und entwicklungsabh&auml;ngiger therapeutischer Serumspiegelbereiche zur optimierten Dosisfindung etc.) genutzt werden.</li>
+            </ul>
+            </div>
+            </div>
+            </div>
+
+
+
+            <!-- 3.Reihe -->
+
+            <div class="subcolumns">
+            <div class="c66l">
+            <div class="c50l">
+            <div class="subcl">
+            <ul>
+            <li>Eine <b>pharmakogenetische Zusatzuntersuchung</b> wird f&uuml;r Patienten angeboten, die trotz regelrechter Medikationseinnahme keine ad&auml;quaten Serumspiegel bzw. keine Wirkung bzw. hohe Nebenwirkungen verzeichnen. Hier kann eine Analyse der beteiligten Stoffwechsel-Enzyme wegweisend f&uuml;r die weitere Behandlung sein.</li>
+            </ul>
+            </div>
+            </div>
+            <div class="c50r">
+            <div class="subcl">
+            <ul>
+            <li>Nutzung der Datenbank als Basis für multizentrische klinische und Beobachtungsstudien: Erweiternde, projektspezifsche Zusatzformulare oder komplette Trials k&ouml;nnen gem&auml;&szlig; GCP-, AMG-, EMEA- und FDA-Richtlinien in die Datenbank integriert bzw. angegliedert werden. Integriert sind externes Monitoring (Query-System, Review A und B), Data Entry complete sowie Source Data Verification Funktion und AE/SAE Formulare</li>
+            </ul>
+            </div>
+            </div>
+
+            </div>
+
+            <div class="c33r">
+            <div class="subcr">
+            <ul>
+            <li>Durch systematische Serumspiegelerfassungen <b>Definition alters- und entwicklungsspezifischer therapeutischer Serumspiegelbereiche</b> (d.h. Serumspiegelbereiche, bei denen eine m&ouml;glichst optimale Wirkung bei m&ouml;glichst geringen unerw&uuml;nschten Wirkungen zu erwarten ist)</li>
+            </ul>
+            </div>
+
+            </div>
+
+            </div>
+
+			</div>
+          </div>
+          <!-- IE Column Clearing -->
+          <div id="ie_clearing"> &#160; </div>
+        </div>
+
+      <!-- begin: #footer -->
+      <div id="footer">Erstellt von <a href="http://www.3rat.de" target="_blank">3rat</a>
+      </div>
+   </div>
+    <div id="border-bottom">
+      <div id="edge-bl"></div>
+      <div id="edge-br"></div>
+    </div>
+  </div>
+</body>
+</html>
